@@ -10,7 +10,8 @@ from pathlib import Path
 # --- Configuration ---
 ROOT_DIR = Path(__file__).parent
 SCRIPT_NAME = Path('afk.py')
-EXECUTABLE_NAME = "silver's Anti-AFK"
+# --- CHANGE: Renamed to avoid special characters
+EXECUTABLE_NAME = "silvers-anti-afk"
 ASSETS_FOLDER = Path('assets')
 ICON_FILE = Path('off.ico')
 

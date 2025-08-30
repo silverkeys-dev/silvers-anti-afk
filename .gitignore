@@ -1,0 +1,13 @@
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
